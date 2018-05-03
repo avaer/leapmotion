@@ -1,6 +1,6 @@
 {
   "name": "leapmotion",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Leap Motion SDK",
   "main": "index.js",
   "directories": {
